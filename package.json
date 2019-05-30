@@ -12,5 +12,8 @@
     "sirv-cli": "^0.4.0",
     "svelte": "^3.0.0",
     "lerna": "^3.14.1"
+  },
+  "scripts": {
+    "publish": "lerna publish --registry http://localhost:4873"
   }
 }
