@@ -1,7 +1,7 @@
 
 <script>
 	const handleClick = () => {
-		alert('new button version')
+		alert('new button version!')
 	}
 </script>
 
