@@ -1,0 +1,12 @@
+{
+  "name": "@chama-ui/button",
+  "version": "0.1.2",
+  "description": "",
+  "main": "dist/index.js",
+  "module": "src/index.js",
+  "scripts": {
+    "transpile": "rollup -c"
+  },
+  "author": "",
+  "license": "ISC"
+}
